@@ -42,3 +42,9 @@ Esse é meu primeoiro arquivo de README
 
 **git log** - Informações do log
 
+**git status** - Informações dos status dos arquivos
+
+**git restore** - Restaura arquivo deletado antes do commit
+
+**git checkout** - Recupera um arquivo de um log deletado (git checkout *Id Log* *Nome Arquivo*)
+
