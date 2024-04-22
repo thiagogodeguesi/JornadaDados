@@ -1,0 +1,1 @@
+print("Vem pra Jornada de Dados")
