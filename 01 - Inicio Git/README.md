@@ -1,32 +1,14 @@
-# Meu primeiro README
-
-## Sub-títulos 
-
-*Italico*
-
-**Negrito**
-
-Esse é meu primeoiro arquivo de README
-
-**Listas**
-- Elemento 1
-- Elemento 2 
-
-1) Elemento 1
-2) Elemento 2
-
+# GIT
 
 ![alt text](image.png)
-
-
-
-## Comandos importantes  Python / Git
-
-**python --version** - Versão do Python
 
 ## Comandos importantes git
 
 **git --version** - Versão do Git
+
+**git global user.name** - Nome do usuario do Git
+
+**git global user.Email** - Email do usuario do Git
 
 **git init** - Inicia projeto em git
 
