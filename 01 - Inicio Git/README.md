@@ -12,9 +12,11 @@
 
 **git init** - Inicia projeto em git
 
-**git add** - adiciona o arquivo para commit
+**git add *NOME_AQRQUIVO*** - adiciona o arquivo para commit
 
-**git commit** -m "nome do commit" - nome que fica o commit
+**git add .** - adiciona todos os arquivos para commit
+
+**git commit -m "nome do commit"** - nome que fica o commit
 
 **git log** - Informações do log
 

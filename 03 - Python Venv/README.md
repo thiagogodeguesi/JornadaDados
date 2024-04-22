@@ -35,6 +35,12 @@ Sempre antes de criar um projeto de uma determinada biblioteca temos que validar
 
 **poetry add *BIBLIOTECA*** - Instalar a biblioteca no projeto (Ao invez de usar o pip install *biblioteca*)
 
+**poetry remove *BIBLIOTECA*** - Desinstalar a biblioteca no projeto (Ao invez de usar o pip uninstall *biblioteca*)
+
+
+**poetry shell** - Inicia o ambiente de desenvolvimento
+
+
 ## Ipython
 
 **pip install ipython** - Instalar o ipython
