@@ -16,12 +16,6 @@ Esse é meu primeoiro arquivo de README
 2) Elemento 2
 
 
-
-[Link GitHub](https://github.com/thiagogodeguesi)
-
-[Link Linkedin](https://www.linkedin.com/in/thiagogodeguesi/)
-
-
 ![alt text](image.png)
 
 
