@@ -26,7 +26,7 @@ Esse é meu primeoiro arquivo de README
 
 
 
-## Comandos importantes 
+## Comandos importantes  Python / Git
 
 **python --version** - Versão do Python
 
