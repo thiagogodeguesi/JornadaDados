@@ -34,7 +34,7 @@ Sempre antes de criar um projeto de uma determinada biblioteca temos que validar
 
 **deactivate** - Desativar o ambiente virtual
 
-## Poetry
+## Poetry 
 
 **pip install poetry** - Instalar o Poetry 
 
