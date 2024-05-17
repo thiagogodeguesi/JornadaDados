@@ -15,6 +15,17 @@ Configuração das Variaveis de Ambiente
 
 # PROJETOS
 
+## 1 - Pandas + Python 3.12.1
+
+## 2 - Stramlit + Python 3.11.5
+
+## 3 - Django + Python 2.7
+
+
+# BIBLIOTECAS
+
+## Comandos para ambiente (VENV)
+
 Sempre antes de criar um projeto de uma determinada biblioteca temos que validar qual é a versão do python que ela esta estavel. 
 
 **python -m venv .venv** - Criação de ambiente virtual dentro do Python
@@ -44,11 +55,3 @@ Sempre antes de criar um projeto de uma determinada biblioteca temos que validar
 ## Ipython
 
 **pip install ipython** - Instalar o ipython
-
-## 1 - Pandas + Python 3.12.1
-
-
-## 2 - Stramlit + Python 3.11.5
-
-
-## 3 - Django + Python 2.7

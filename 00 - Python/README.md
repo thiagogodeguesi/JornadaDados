@@ -1,4 +1,6 @@
-# README
+# COMANDOS MARKDOWN
+
+# Títulos
 
 ## Sub-títulos 
 
@@ -6,7 +8,7 @@
 
 **Negrito**
 
-Esse é meu primeoiro arquivo de README
+Esse é meu primeoiro arquivo de README 
 
 **Listas**
 - Elemento 1
@@ -31,4 +33,3 @@ Esse é meu primeoiro arquivo de README
 **pip freeze** - Lista as bibliotecas instaladas com suas versões
 
 **pip freeze | grep -v "^-e" | xargs pip uninstall -y** Comando pra desistalar todas as bibliotecas
-
