@@ -22,3 +22,30 @@ nome_de_usuario = "Thiago"
 
 #boll
 verdadeiro = True           
+
+#contant
+SENHA = "senha"
+
+# Variavel oculta
+_SENHA = "Ocultar variavel"
+
+
+#CUIDADO ao setar valor a variavel
+#As variaveis não são tipadas ou seja uma variavel pode receber valor distinto. Exemplo :
+
+variavel_exemplo = numero
+print(type(variavel_exemplo))
+print(variavel_exemplo)
+
+variavel_exemplo = numero_decimal
+print(type(variavel_exemplo))
+print(variavel_exemplo)
+
+variavel_exemplo = nome_de_usuario
+print(type(variavel_exemplo))
+print(variavel_exemplo)
+
+variavel_exemplo = verdadeiro
+print(type(variavel_exemplo))
+print(variavel_exemplo)
+
